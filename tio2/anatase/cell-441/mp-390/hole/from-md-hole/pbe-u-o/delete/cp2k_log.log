@@ -1,0 +1,16 @@
+
+ *******************************************************************************
+ *   ___                                                                       *
+ *  /   \                                                                      *
+ * [ABORT]   The specified OLD file <input.inp> cannot be opened. It does not  *
+ *  \___/                       exist. Data directory path:                    *
+ *    |     /mnt/lustre/a2fs-work1/work/y07/shared/apps/core/cp2k/cp2k-2024.3/ *
+ *  O/|                   toolchain_cray_default+mkl+plumed/data               *
+ * /| |                                                                        *
+ * / \                                                   common/cp_files.F:396 *
+ *******************************************************************************
+
+
+ ===== Routine Calling Stack ===== 
+
+            1 read_input
